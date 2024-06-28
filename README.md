@@ -10,6 +10,10 @@ Liguagens Utilizadas:
 - JavaScript
 
 Como começar:
+
 shell
-$ cd /src
-$ node index.js
+  
+  $ cd /src
+  
+  $ node index.js
+
