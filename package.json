@@ -1,0 +1,13 @@
+{
+  "name": "2",
+  "version": "1.0.0",
+  "description": "API do GG",
+  "main": "src/index.js",
+  "scripts": {
+    "start:dev": "node --watch src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Feijó",
+  "license": "ISC",
+  "type": "module"
+}
